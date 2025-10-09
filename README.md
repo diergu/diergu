@@ -13,7 +13,7 @@
 
 ## Minhas Estatísticas
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DougVec&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=diergu&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diergu&layout=compact&langs_count=8&theme=merko&hide_border=true" height="150" alt="languages graph"  />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=diergu&theme=merko&hide_border=true" width="100%" alt="activity-graph graph"  />
