@@ -4,9 +4,9 @@
 
 ## Minhas Tecnologias
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+    <img src="https://skillicons.dev/icons?i=css" height="45" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
  </div>
