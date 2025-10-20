@@ -1,6 +1,4 @@
-##  Olá, seja bem-vindo(a) ao meu perfil!
-
-- Meu nome é Diego Alencar e sou um estudante de Análise e Desenvolvimento de Sistemas 
+##  Olá, me chamo Diego Alencar
 
 ## Minhas Tecnologias
 <div align="left">
